@@ -1,4 +1,16 @@
 # Afan Oromo Programming Language (AOBL) - Translator
+Group Memebers
+Name                              Id.no
+
+1. Samuel Tesfachew -------------   UGR/31190/15
+
+2. Olani Shambel ------------------ UGR/31097/15
+
+3. Yeabsira Zerihun --------------  UGR/31384/15
+
+4. Kenenisa Mekonen ------------    UGR/30771/15
+
+5. Israel Bekele -----------------  UGR/30715/15
 
 A beginner-oriented programming language that translates Afan Oromo source code (`.or` files) into executable Python 3 code. AOBL reduces the English syntax barrier for Afan Oromo speakers learning programming by using familiar native language keywords and terminology.
 
