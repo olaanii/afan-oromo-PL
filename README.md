@@ -8,7 +8,7 @@ Name                              Id.no
 
 3. Yeabsira Zerihun --------------  UGR/31384/15
 
-4. Kenenisa Mekonen ------------    UGR/30771/15
+4. Kenenisa Mekonnen ------------    UGR/30771/15
 
 5. Israel Bekele -----------------  UGR/30715/15
 
