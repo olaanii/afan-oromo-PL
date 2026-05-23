@@ -1,0 +1,12 @@
+## **Afan Oromo Programming Language (AOBL) – Short Report** 
+
+The Afan Oromo Programming Language (AOBL) is a beginner-oriented programming language designed to translate Afan Oromo source code into executable Python 3 programs. The project was developed to reduce the English syntax barrier that many Afan Oromo-speaking learners face when studying programming for the first time. By introducing familiar Afan Oromo keywords and expressions, AOBL creates a more accessible and comfortable learning environment while still maintaining a proper compiler architecture and modern programming principles. 
+
+The language uses simple and intuitive Afan Oromo keywords such as “haa” for variable declaration, “yoo” for conditional statements, “hanga” for loops, and “hojii” for function definitions. It also supports optional type annotations using localized type names including “lakkoofsa” for integers, “barruu” for strings, and “dhugaa” for Boolean values. This design allows beginners to understand programming concepts in their native language while gradually becoming familiar with Python programming structures. 
+
+AOBL follows a structured compilation process that includes lexical analysis, parsing, type checking, and Python code generation. The lexer converts source code into tokens while handling indentation and Unicode characters. The parser then builds an Abstract Syntax Tree (AST) to validate syntax structure. After parsing, the type checker ensures consistency between data types throughout the program. Finally, the code generator produces valid and executable Python 3 code. 
+
+The project places strong emphasis on accessibility and beginner support through localized Afan Oromo error messages and natural-language syntax forms. These features help learners better understand programming errors and reduce the intimidation often associated with learning programming in a foreign language. During development, several technical challenges were addressed, including Unicode support, indentation tracking, natural-language parsing, and localized error handling. Solutions such as Unicodeaware tokenization, indentation stack management, and a simplified type inference system ensured reliable and efficient compilation. 
+
+Overall, AOBL demonstrates that culturally adapted programming languages can significantly improve programming accessibility for non-English speakers while still preserving strong educational value and solid compiler design principles. 
+
