@@ -1,8 +1,8 @@
 # Afan Oromo Programming Language (AOBL) - Translator
-Group Memebers
+Group Members
 
 
-Name                              Id.no
+Name                                Id.no
 
 1. Samuel Tesfachew -------------   UGR/31190/15
 
